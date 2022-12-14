@@ -1,0 +1,15 @@
+h1 {
+    font-family: 'Fredoka One', cursive;
+    font-size: .47em;
+    letter-spacing: 3px;
+    color: #b33000;
+    position: relative;
+    top: 22px;
+}
+
+h2 {
+    font-family: 'Fredoka One', cursive;
+    font-size: 1.1em;
+    word-spacing: -11px;
+    color: green;
+}
